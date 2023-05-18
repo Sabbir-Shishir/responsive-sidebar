@@ -7,7 +7,7 @@ This is a responsive sidebar implementation using HTML, CSS and JavaScript.
 You can see a live demo of the application by [click here](https://sidebar-ae26b0.netlify.app/)
 ## Installation
 
-To use the responsive navbar in your project, follow these steps:
+To use the responsive sidebar in your project, follow these steps:
 
 - Clone the repository :
 ```bash
